@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 from visualizations.dataframe_modification import create_dataframe
-import pandas as pd
 
 def extract_tables_from_excel(excel_path):
     # Load the Excel file
