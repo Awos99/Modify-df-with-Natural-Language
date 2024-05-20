@@ -1,5 +1,7 @@
 # Streamlit Dataframe Manipulation App with Natural Language
 
+![Demo GIF](/static/demo.gif)
+
 ## Overview
 This repository contains a Streamlit application that simplifies data visualization and manipulation using natural language. Users can upload CSV or Excel files, visualize and interact with the data, and modify it using commands in natural language, powered by a custom agent using ChatGPT-4o.
 
